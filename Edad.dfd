@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'Ingresa tu edad'
+5
+1
+4
+edad
+7
+0
+1
+8
+edad<=12
+7
+0
+1
+22
+edad>=13 and edad <=20
+7
+0
+1
+21
+edad>=21 and edad<=60
+4
+1
+23
+'Persona de la 3a edad'
+13
+4
+1
+16
+'Persona grande'
+13
+13
+4
+1
+13
+'Adolescente'
+13
+13
+4
+1
+6
+'Niño'
+13
+1

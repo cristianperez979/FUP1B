@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'ingresa total de compra'
+5
+1
+1
+a
+7
+0
+1
+7
+a>=1000
+4
+1
+24
+'la propina sera de 16%'
+6
+2
+1
+b
+6
+a*0.16
+1
+c
+3
+a+b
+4
+1
+22
+'La propina es de ' ,b
+4
+1
+44
+'propina mas total de cuenta da total de ',c
+13
+4
+1
+24
+'la propina sera de 10%'
+6
+2
+1
+b
+6
+a*0.10
+1
+c
+3
+a+b
+4
+1
+22
+'La propina es de ' ,b
+4
+1
+44
+'propina mas total de cuenta da total de ',c
+13
+1

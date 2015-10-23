@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'ingrese la base y la altura: '
+5
+1
+4
+B ,H
+6
+1
+4
+Area
+6
+b*h /2
+4
+1
+30
+'el area del triangulo ', area
+1

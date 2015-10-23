@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'Ingresa el peso de la ropa'
+5
+1
+4
+peso
+7
+0
+1
+8
+peso>=21
+7
+0
+1
+8
+peso<=10
+7
+0
+1
+21
+(peso<=15 or peso<11)
+7
+0
+1
+22
+(peso<=16 or peso<=20)
+13
+4
+1
+28
+'Se usara el maximo de agua'
+13
+13
+4
+1
+33
+'Se usara el nivel medio de agua'
+13
+4
+1
+93
+'Ingrese que tipo de ropa es para determinar tiempo de lavado: 1.Delicada  2.Normal  3.Sucia'
+5
+1
+4
+tipo
+7
+0
+1
+6
+tipo=1
+7
+0
+1
+6
+tipo=2
+7
+0
+1
+6
+tipo=3
+7
+0
+1
+7
+tipo>=4
+13
+4
+1
+17
+'Opcion invalida'
+13
+13
+4
+1
+36
+'Ropa sucia se lavara en 20 minutos'
+13
+13
+4
+1
+37
+'Ropa normal se lavara en 10 minutos'
+13
+13
+4
+1
+38
+'Ropa delicada se levara en 5 minutos'
+13
+13
+13
+13
+4
+1
+7
+'error'
+13
+1
